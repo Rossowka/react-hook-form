@@ -1,0 +1,13 @@
+$primary-color: #f4f4f8;// #fdcb6e;
+$secondary-color:#2a2c41;// #ffeaa7;
+$accent-color: #fdbf50; // #6c5ce7;
+$error-color: #ff724c; // #6c5ce7; //#d63031;
+$text-color: #2a2c41;
+
+$font-stack: Helvetica, sans-serif;
+
+:export {
+    primaryColor: $primary-color;
+    textColor: $text-color;
+    errorColor: $error-color;
+}
